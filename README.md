@@ -12,12 +12,12 @@
 
 <picture>
 <source 
-  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=tyrinand&theme=dark&hide=css,html"
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=tyrinand&theme=dark&hide=css,HTML"
   media="(prefers-color-scheme: dark)"
 />
 <source
-  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=tyrinand&hide=css,html"
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=tyrinand&hide=css,HTML"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tyrinand&hide=css,html" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tyrinand&hide=css,HTML" />
 </picture>
